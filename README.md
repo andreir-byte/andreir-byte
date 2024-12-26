@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Dolphins and Whales identify themselves through songs they create that are simply too low pitched for us to hear so we perceive them as vibrations**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
