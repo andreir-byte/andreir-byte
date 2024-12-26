@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrei Andrei - ALexandru Rusu</h1>
+<h1 align="center">Hi 👋, I'm Andrei - ALexandru Rusu</h1>
 <h3 align="center">A wanna be programmer whose main interest is problem solving</h3>
 
 - 🔭 I’m currently working on The Romanian National Informatics Olympiad [Sepi](https://sepi.ro/)
